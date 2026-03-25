@@ -1,9 +1,4 @@
-<h1 align="center">Faisal Porag</h1>
-<h3 align="center">Senior Backend Engineer | Distributed Systems | High Scale Platform Builder</h3>
-
-<p align="center">
-Designing resilient backend architectures powering Fintech, OTA, E-commerce and Job Marketplace platforms.
-</p>
+<h1 align="center">Faisal Porag</h1><h3 align="center">Senior Backend Engineer | Distributed Systems Specialist | High-Scale Platform Architect</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=faisal-porag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <a href="https://www.linkedin.com/in/faisal-porag-fpdev/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://faisal-porag.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome" alt="Portfolio" /> </a> <a href="mailto:porag2619@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" /> </a> </p><p align="center"> Designing resilient, high-performance backend architectures for Fintech, OTA, E-commerce, and Job Marketplace platforms. </p>
 
 ---
 
