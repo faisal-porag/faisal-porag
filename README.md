@@ -13,6 +13,8 @@
 
 ## 🌍 Industry Domain Expertise
 
+<table> <tr> <td width="50%" valign="top"> <h3>💰 Fintech Platforms</h3> <ul> <li>Wallet & ledger systems with double-entry accounting</li> <li>Payment orchestration & gateway integration</li> <li>Fraud detection pipelines & risk scoring</li> <li>High-volume transaction processing</li> <li>Settlement & reconciliation services</li> </ul> </td> <td width="50%" valign="top"> <h3>✈️ Online Travel Agencies (OTA)</h3> <ul> <li>High-concurrency booking engines</li> <li>Dynamic inventory & pricing systems</li> <li>Real-time availability synchronization</li> <li>Search ranking & multi-level caching</li> </ul> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛒 E-commerce Platforms</h3> <ul> <li>Large-scale catalog & product data modeling</li> <li>Distributed cart & order orchestration</li> <li>Search & recommendation pipelines</li> <li>Promotion, coupon & discount engines</li> <li>Seller onboarding & marketplace services</li> </ul> </td> <td width="50%" valign="top"> <h3>💼 Job Marketplace / Recruitment</h3> <ul> <li>High-volume job indexing & search</li> <li>Resume parsing & relevance ranking</li> <li>Employer analytics dashboards</li> <li>Notification engines & matching algorithms</li> </ul> </td> </tr> </table>
+
 ### 💰 Fintech Platforms
 
 * Wallet & ledger systems
