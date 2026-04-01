@@ -21,13 +21,6 @@
 * Transaction processing at scale
 * Settlement & reconciliation services
 
-### ✈️ OTA (Online Travel Agency)
-
-* High concurrency booking systems
-* Inventory & pricing engines
-* Search ranking & caching strategies
-* Real-time availability synchronization
-
 ### 🛒 E-commerce Platforms
 
 * Large catalog product architecture
